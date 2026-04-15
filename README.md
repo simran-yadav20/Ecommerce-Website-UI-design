@@ -40,7 +40,7 @@ Designed a multi-page e-commerce interface including browsing, product details, 
 ## 🛍️ Product Listing
 
 ### Main Listing Page
-![Product Listing](screenshots/product listing.png)
+![Product Listing](screenshots/product%20listing.png)
 
 ### 📂 Categories
 
@@ -48,7 +48,7 @@ Designed a multi-page e-commerce interface including browsing, product details, 
 ![Clothes](screenshots/clothes.png)
 
 #### 🏠 Home & Kitchen
-![Home Kitchen](screenshots/home kitchen.png)
+![Home Kitchen](screenshots/home%20kitchen.png)
 
 #### 🏃 Sports
 ![Sports](screenshots/sports.png)
