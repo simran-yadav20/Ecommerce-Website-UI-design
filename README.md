@@ -56,7 +56,7 @@ Designed a multi-page e-commerce interface including browsing, product details, 
 ---
 
 ### 📦 Product Detail
-![Product Detail](screenshots/Product detail.png)
+![Product Detail](screenshots/Product%20detail.png)
 
 ---
 
